@@ -1,3 +1,5 @@
 var age = prompt('What is your age?');
+var age=parseInt(age);
 
-// Your code below:
+
+console.log(age+10);
